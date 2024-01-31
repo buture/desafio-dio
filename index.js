@@ -1,6 +1,7 @@
 let nomeDoHeroi = "Superman";
 let experienciaDoHeroi = 5000;
 let nivelDoHeroi;
+
 if (experienciaDoHeroi < 1000) {
   nivelDoHeroi = "Ferro";
 } else if (experienciaDoHeroi >= 1001 && experienciaDoHeroi <= 2000) {
